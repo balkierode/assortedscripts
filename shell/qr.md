@@ -1,8 +1,8 @@
 ## What is this?
 
-Show qr code for any text pased. More details in ![man qrencode](https://linux.die.net/man/1/qrencode)
+Show qr code for any text. More details in [man qrencode](https://linux.die.net/man/1/qrencode)
 
-##Install
+## Install
 
 ### Ubuntu
 
@@ -18,10 +18,11 @@ Show qr code for any text pased. More details in ![man qrencode](https://linux.d
 ## Invoking
 
     qr "Some text to copy to your phone from a computer"
+    cat /tmp/some.txt | qr
 
 ![QR function usage](../images/qr.png)
 
 ### Known to work
 
 * Ubuntu 18.04 
-
+* zsh
