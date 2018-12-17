@@ -1,6 +1,6 @@
 ## What is this?
 
-Show qr code for any text. More details in [man qrencode](https://linux.die.net/man/1/qrencode)
+Show qr code for any text in terminal. (Yes terminal - no image). You can transfer to phone without going through the network or using a website. More details in [man qrencode](https://linux.die.net/man/1/qrencode)
 
 ## Install
 
